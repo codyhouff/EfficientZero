@@ -1,4 +1,4 @@
-numpy
+numpy==1.21.6
 ray==1.0.0
 gym==0.15.7
 atari-py==0.2.6
